@@ -1,0 +1,7 @@
+{
+  "name": "Laricas Jah - Totem de Autoatendimento",
+  "description": "Totem de autoatendimento interativo para lanchonete e restaurante Laricas Jah no Litoral Norte de SP, com cardápio completo de lanches, batatas, sucos e chocolates, personalização de itens, geração de senhas e integração Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
